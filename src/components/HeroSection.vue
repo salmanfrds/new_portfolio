@@ -65,11 +65,6 @@ function scrollTo(id) {
           <span class="stat-num">1K+</span>
           <span class="stat-label">App Downloads</span>
         </div>
-        <div class="divider"></div>
-        <div class="stat">
-          <span class="stat-num">6×</span>
-          <span class="stat-label">Dean's List</span>
-        </div>
       </div>
     </div>
   </section>
